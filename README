@@ -9,7 +9,7 @@ To install using CocoaPods
 1- open terminal 
 2- go to your project directory using cd [Path]
 3- use this command to create pods repo "pod init"
-4- usie this command to install pod "pod install"
+4- using this command to install pod "pod install"
 5- close your peoject and open it using xcworkspace file
 6- type    pod 'IAFBLiveAnimation'    in your pod file and save it.
 7- got to terminal and use 'pod install' to install this pod.
